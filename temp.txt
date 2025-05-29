@@ -1,0 +1,20 @@
+agent_note = {
+    'type_of_task': 'classify the task into ["summary","qna","text_generation","NLI"]',
+    'enhanced_prompt' : 'the enhanced prompt ',
+    'keywords' : 'keywords with most attention',
+    'metric': 'metrics for the new enchanced prompt like structure, clarity, specificity, overall',
+    'old_metric': 'metrics for the input prompt like structure, clarity, specificity, overall',
+    }
+LLM_PROMPT = f"""You are an prompt engineer specialising in enchaning the prompt. 
+You have been given an intital prompt and you have to convert it to be best the possible prompt for any LLM. 
+Your task is to create a Enchanced Prompt that can be used in by other LLMs and should be output in the below given format:
+
+Agents_note format: {agent_note}
+
+Transcript : {prompt}
+
+Output Formatting Requirements: : 
+- Output : Extract the specified details and present them in a well formatted JSON object that matches the 'Agents_note format'. 
+- Use JSON syntax.
+- Just output the JSON object.
+"""
