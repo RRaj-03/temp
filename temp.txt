@@ -141,3 +141,158 @@ print(tokenizer.decode(output[0], skip_special_tokens=True))
 
 trainer.save_model("mistral-lora-translator")
 tokenizer.save_pretrained("mistral-lora-translator")
+
+
+
+import numpy as np
+import matplotlib.pyplot as plt
+from scipy.cluster.hierarchy import dendrogram, linkage
+import gensim.downloader as api
+
+# Load GloVe embeddings
+print("Loading GloVe vectors...")
+# model = api.load("glove-wiki-gigaword-100")
+
+# Base financial vocabulary
+base_keywords = [
+    "stock", "bond", "equity", "asset", "liability", "dividend", "interest", "loan", "credit",
+    "debit", "balance", "revenue", "profit", "loss", "income", "expense", "budget", "capital",
+    "investment", "return", "risk", "hedge", "fund", "portfolio", "market", "index", "exchange",
+    "inflation", "valuation", "arbitrage", "liquidity", "leverage", "depreciation", "derivative",
+    "futures", "options", "securities", "broker", "dealer", "trader", "share", "diversification",
+    "yield", "volatility", "acquisition", "merger", "IPO", "underwriting", "audit", "GDP", "CPI",
+    "recession", "forecast", "projection", "mortgage", "subsidy", "default", "insolvency", "rating"
+]
+
+# Expand word list
+modifiers = ["rate", "value", "price", "trend", "gain", "loss", "cost"]
+words = set(base_keywords)
+for word in base_keywords:
+    for mod in modifiers:
+        words.add(f"{word}_{mod}")
+    if len(words) > 500:
+        break
+
+finance_words = list(words)[:500]
+
+# Filter for words available in GloVe
+filtered_words = [w for w in finance_words if w in model]
+print(f"Filtered words in GloVe: {len(filtered_words)}")
+
+# Get their embeddings
+vectors = np.array([model[w] for w in filtered_words])
+
+# Perform clustering
+linked = linkage(vectors, method='ward')
+
+# Plot dendrogram
+plt.figure(figsize=(20, 8))
+dendrogram(linked,
+           labels=filtered_words,
+           leaf_rotation=90,
+           leaf_font_size=8,
+           truncate_mode='lastp',
+           p=80)
+plt.title('Hierarchical Clustering of Financial Terms')
+plt.xlabel('Word Clusters')
+plt.ylabel('Distance')
+plt.tight_layout()
+plt.show()
+
+import gensim.downloader as api
+import shutil
+import os
+
+# Clear partial download if it exists
+path = os.path.expanduser('~/.cache/gensim')
+glove_folder = os.path.join(path, 'glove-wiki-gigaword-100')
+if os.path.exists(glove_folder):
+    print("Removing incomplete GloVe download...")
+    shutil.rmtree(glove_folder)
+
+# Try again
+print("Retrying GloVe download...")
+model = api.load("glove-wiki-gigaword-100")
+print("Model loaded successfully!")
+
+import numpy as np
+import matplotlib.pyplot as plt
+from scipy.cluster.hierarchy import dendrogram, linkage
+import gensim.downloader as api
+import random
+
+# Clean up any broken GloVe cache if needed
+import shutil, os
+cache_path = os.path.expanduser('~/.cache/gensim/glove-wiki-gigaword-100')
+if os.path.exists(cache_path):
+    shutil.rmtree(cache_path)
+
+# Load pretrained GloVe embeddings
+print("Downloading GloVe model...")
+model = api.load("glove-wiki-gigaword-100")
+
+# Randomly select 500 words from the model's vocab
+words = random.sample(model.index_to_key, 500)
+vectors = np.array([model[word] for word in words])
+
+# Perform hierarchical clustering
+linked = linkage(vectors, method='ward')
+
+# Plot dendrogram
+plt.figure(figsize=(18, 7))
+dendrogram(linked,
+           labels=words,
+           leaf_rotation=90,
+           leaf_font_size=7)
+plt.title("Hierarchical Clustering of 500 Random Words (No Context)")
+plt.tight_layout()
+plt.show()
+
+from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
+import torch
+from collections import defaultdict
+from scipy.cluster.hierarchy import fcluster
+
+# Load LLM
+model_name = "microsoft/phi-2"  # You can also use mistralai/Mistral-7B-Instruct-v0.1 if you have >16GB VRAM
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+model = AutoModelForCausalLM.from_pretrained(model_name, torch_dtype=torch.float32)
+
+# Inference pipeline
+llm = pipeline("text-generation", model=model, tokenizer=tokenizer, device=0 if torch.cuda.is_available() else -1)
+
+# Assuming `linked` and `words` are from earlier hierarchical clustering
+num_clusters = 10
+cluster_labels = fcluster(linked, num_clusters, criterion='maxclust')
+
+clusters = defaultdict(list)
+for word, label in zip(words, cluster_labels):
+    clusters[label].append(word)
+
+# Classify function
+def classify_text_with_llm(text, clusters_dict):
+    prompt = "I have the following clusters of words:\n\n"
+    for i, word_list in clusters_dict.items():
+        prompt += f"Cluster {i}: {', '.join(word_list[:10])}\n"
+
+    prompt += f"\nWhich cluster best represents the following text?\n\n\"{text}\"\n\nAnswer only with the cluster number."
+
+    response = llm(prompt, max_new_tokens=50, do_sample=False)[0]['generated_text']
+    print("\n--- LLM Output ---\n", response)
+    # Extract the cluster number from the response
+    for i in clusters_dict:
+        if f"Cluster {i}" in response or str(i) in response:
+            return i
+    return "Unclear"
+
+# 🔍 Try it
+input_text = "The government announced new tax policies affecting capital gains."
+predicted = classify_text_with_llm(input_text, clusters)
+print(f"\n➡️ Text classified into Cluster: {predicted}")
+
+
+
+%pip install gensim
+%pip install --no-cache-dir transformers==4.39.3 accelerate==0.29.3 torch==2.2.2 sentencepiece==0.1.99
+
+
