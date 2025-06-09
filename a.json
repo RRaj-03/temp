@@ -1,0 +1,1083 @@
+[
+  {
+    "question": "Why do some people seem to naturally attract others while others struggle with social connections throughout their lives?",
+    "domain": "Social Psychology & Human Behavior"
+  },
+  {
+    "question": "What makes certain childhood memories so vivid and emotionally charged while others fade completely?",
+    "domain": "Social Psychology & Human Behavior"
+  },
+  {
+    "question": "How does social media validation affect our sense of self-worth, and why do we become addicted to likes and comments?",
+    "domain": "Social Psychology & Human Behavior"
+  },
+  {
+    "question": "Why do people in toxic relationships often stay despite knowing they're unhappy?",
+    "domain": "Social Psychology & Human Behavior"
+  },
+  {
+    "question": "What psychological mechanisms drive conspiracy theory beliefs, and how can we address misinformation without alienating believers?",
+    "domain": "Social Psychology & Human Behavior"
+  },
+  {
+    "question": "How do cultural differences in emotional expression affect cross-cultural relationships and communication?",
+    "domain": "Social Psychology & Human Behavior"
+  },
+  {
+    "question": "Why do some people thrive under pressure while others crumble, and can stress tolerance be developed?",
+    "domain": "Social Psychology & Human Behavior"
+  },
+  {
+    "question": "What determines whether someone becomes an introvert or extrovert, and can personality traits change over time?",
+    "domain": "Social Psychology & Human Behavior"
+  },
+  {
+    "question": "Why do we feel nostalgia so intensely, and what evolutionary purpose might this emotion serve?",
+    "domain": "Social Psychology & Human Behavior"
+  },
+  {
+    "question": "How does growing up in poverty affect brain development and decision-making abilities in adulthood?",
+    "domain": "Social Psychology & Human Behavior"
+  },
+  {
+    "question": "What is the meaning of life, and how do different people find purpose in existence?",
+    "domain": "Philosophy & Existential Questions"
+  },
+  {
+    "question": "If free will doesn't exist, how should that change the way we think about morality and personal responsibility?",
+    "domain": "Philosophy & Existential Questions"
+  },
+  {
+    "question": "Why is there something rather than nothing, and what does existence itself even mean?",
+    "domain": "Philosophy & Existential Questions"
+  },
+  {
+    "question": "How can we determine what is truly right or wrong if morality seems to vary across cultures and time periods?",
+    "domain": "Philosophy & Existential Questions"
+  },
+  {
+    "question": "What happens to consciousness after death, and is there any way to know for certain?",
+    "domain": "Philosophy & Existential Questions"
+  },
+  {
+    "question": "If artificial intelligence becomes more intelligent than humans, what will that mean for human purpose and identity?",
+    "domain": "Philosophy & Existential Questions"
+  },
+  {
+    "question": "How do we balance individual freedom with collective responsibility in society?",
+    "domain": "Philosophy & Existential Questions"
+  },
+  {
+    "question": "What makes a life worth living, and how do we measure the value of different experiences?",
+    "domain": "Philosophy & Existential Questions"
+  },
+  {
+    "question": "Why do bad things happen to good people, and how do we make sense of suffering in the world?",
+    "domain": "Philosophy & Existential Questions"
+  },
+  {
+    "question": "How can we know if our perception of reality matches what actually exists?",
+    "domain": "Philosophy & Existential Questions"
+  },
+  {
+    "question": "Why do we dream, and what do our dreams reveal about our subconscious minds?",
+    "domain": "Neuroscience & Mental Health"
+  },
+  {
+    "question": "How does depression actually change the brain, and why do some treatments work for some people but not others?",
+    "domain": "Neuroscience & Mental Health"
+  },
+  {
+    "question": "What creates consciousness, and how do billions of neurons give rise to subjective experience?",
+    "domain": "Neuroscience & Mental Health"
+  },
+  {
+    "question": "Why do we forget things we want to remember but can't forget traumatic experiences we wish we could erase?",
+    "domain": "Neuroscience & Mental Health"
+  },
+  {
+    "question": "How does meditation and mindfulness actually change brain structure and function?",
+    "domain": "Neuroscience & Mental Health"
+  },
+  {
+    "question": "What causes some people to develop mental illness while others remain resilient despite similar circumstances?",
+    "domain": "Neuroscience & Mental Health"
+  },
+  {
+    "question": "How do psychedelic substances affect consciousness, and what can they teach us about the nature of mind?",
+    "domain": "Neuroscience & Mental Health"
+  },
+  {
+    "question": "Why do we have emotions, and how do they influence our decision-making more than we realize?",
+    "domain": "Neuroscience & Mental Health"
+  },
+  {
+    "question": "What happens in the brain during near-death experiences, and why are they so consistently reported across cultures?",
+    "domain": "Neuroscience & Mental Health"
+  },
+  {
+    "question": "How does chronic stress literally age our bodies, and what can we do to reverse or prevent this damage?",
+    "domain": "Neuroscience & Mental Health"
+  },
+  {
+    "question": "Why does time seem to speed up as we get older, and how does our perception of time actually work?",
+    "domain": "Physics & Time"
+  },
+  {
+    "question": "What existed before the Big Bang, and how can something come from nothing?",
+    "domain": "Physics & Time"
+  },
+  {
+    "question": "If the universe is expanding, what is it expanding into?",
+    "domain": "Physics & Time"
+  },
+  {
+    "question": "How can quantum particles be in multiple places at once, and what does this mean for our understanding of reality?",
+    "domain": "Physics & Time"
+  },
+  {
+    "question": "What is dark matter and dark energy, and why can't we detect most of the universe?",
+    "domain": "Physics & Time"
+  },
+  {
+    "question": "Is time travel possible, and if so, how would paradoxes be resolved?",
+    "domain": "Physics & Time"
+  },
+  {
+    "question": "Why does gravity work the way it does, and what would happen if gravitational constants were different?",
+    "domain": "Physics & Time"
+  },
+  {
+    "question": "How can light be both a wave and a particle, and what does this duality reveal about the nature of reality?",
+    "domain": "Physics & Time"
+  },
+  {
+    "question": "What happens inside a black hole, and why can't information escape from it?",
+    "domain": "Physics & Time"
+  },
+  {
+    "question": "If there are infinite parallel universes, does that mean every possible version of our lives exists somewhere?",
+    "domain": "Physics & Time"
+  },
+  {
+    "question": "Why did life emerge from non-living matter, and how likely is it that this happened elsewhere in the universe?",
+    "domain": "Biology & Evolution"
+  },
+  {
+    "question": "How do we reconcile the randomness of evolution with the incredible complexity and apparent design of living systems?",
+    "domain": "Biology & Evolution"
+  },
+  {
+    "question": "What makes humans fundamentally different from other animals, and when did we develop self-awareness?",
+    "domain": "Biology & Evolution"
+  },
+  {
+    "question": "How does aging actually work at the cellular level, and is it theoretically possible to stop or reverse it?",
+    "domain": "Biology & Evolution"
+  },
+  {
+    "question": "Why do we have such strong emotional bonds with our pets and certain animals but not others?",
+    "domain": "Biology & Evolution"
+  },
+  {
+    "question": "How do billions of microorganisms in our gut influence our mood, behavior, and decision-making?",
+    "domain": "Biology & Evolution"
+  },
+  {
+    "question": "What evolutionary purpose does suffering serve, and why didn't we evolve to be happier?",
+    "domain": "Biology & Evolution"
+  },
+  {
+    "question": "How do plants 'know' when to bloom, change colors, or grow toward light without having brains?",
+    "domain": "Biology & Evolution"
+  },
+  {
+    "question": "Why do we find certain faces attractive while others don't appeal to us, and how much is biological versus cultural?",
+    "domain": "Biology & Evolution"
+  },
+  {
+    "question": "What determines whether a species will survive mass extinction events, and are humans vulnerable to the same forces?",
+    "domain": "Biology & Evolution"
+  },
+  {
+    "question": "Why does economic inequality persist and grow despite technological advances that could theoretically benefit everyone?",
+    "domain": "Society & Economics"
+  },
+  {
+    "question": "How do we balance economic growth with environmental sustainability without destroying the planet?",
+    "domain": "Society & Economics"
+  },
+  {
+    "question": "Why do democracies sometimes elect leaders who seem to work against the interests of their voters?",
+    "domain": "Society & Economics"
+  },
+  {
+    "question": "What causes some societies to become more progressive while others become more conservative over time?",
+    "domain": "Society & Economics"
+  },
+  {
+    "question": "How do we address global problems like climate change when countries have competing national interests?",
+    "domain": "Society & Economics"
+  },
+  {
+    "question": "Why do people vote against their own economic interests, and how much do emotions influence political decisions?",
+    "domain": "Society & Economics"
+  },
+  {
+    "question": "What would happen to society if automation replaces most human jobs within the next few decades?",
+    "domain": "Society & Economics"
+  },
+  {
+    "question": "How do we maintain privacy and individual rights in an increasingly connected and monitored world?",
+    "domain": "Society & Economics"
+  },
+  {
+    "question": "Why do some cultures emphasize individual achievement while others prioritize collective harmony?",
+    "domain": "Society & Economics"
+  },
+  {
+    "question": "How do we create fair and just systems when people have different definitions of fairness and justice?",
+    "domain": "Society & Economics"
+  },
+  {
+    "question": "Will artificial intelligence eventually become conscious, and how would we even recognize if it did?",
+    "domain": "Technology & Future"
+  },
+  {
+    "question": "How will virtual and augmented reality change human relationships and our connection to physical reality?",
+    "domain": "Technology & Future"
+  },
+  {
+    "question": "What happens when we can edit human genes to enhance intelligence, strength, or other traits?",
+    "domain": "Technology & Future"
+  },
+  {
+    "question": "How do we ensure AI systems remain beneficial to humanity as they become more powerful than their creators?",
+    "domain": "Technology & Future"
+  },
+  {
+    "question": "What ethical obligations do we have to future generations regarding climate change and resource depletion?",
+    "domain": "Technology & Future"
+  },
+  {
+    "question": "How will brain-computer interfaces change what it means to be human and maintain individual identity?",
+    "domain": "Technology & Future"
+  },
+  {
+    "question": "Should we try to contact alien civilizations, and what are the risks of making our presence known?",
+    "domain": "Technology & Future"
+  },
+  {
+    "question": "How do we prepare society for radical life extension if death becomes optional?",
+    "domain": "Technology & Future"
+  },
+  {
+    "question": "What happens to human purpose and meaning when machines can do everything better than we can?",
+    "domain": "Technology & Future"
+  },
+  {
+    "question": "How will quantum computing change cybersecurity, privacy, and the nature of information itself?",
+    "domain": "Technology & Future"
+  },
+  {
+    "question": "Why do some students excel academically while others with similar intelligence struggle in traditional education systems?",
+    "domain": "Education & Learning"
+  },
+  {
+    "question": "How can we design education systems that prepare students for jobs that don't exist yet?",
+    "domain": "Education & Learning"
+  },
+  {
+    "question": "What is the most effective way to teach critical thinking skills, and why don't more people possess them?",
+    "domain": "Education & Learning"
+  },
+  {
+    "question": "How do cultural biases in standardized testing affect educational equity and student opportunities?",
+    "domain": "Education & Learning"
+  },
+  {
+    "question": "Why does cramming for exams work in the short term but fail for long-term retention and understanding?",
+    "domain": "Education & Learning"
+  },
+  {
+    "question": "How can educators balance personalized learning with the need for standardized curriculum and assessment?",
+    "domain": "Education & Learning"
+  },
+  {
+    "question": "What role should artificial intelligence play in education, and how might it change the teacher-student relationship?",
+    "domain": "Education & Learning"
+  },
+  {
+    "question": "How do we teach students to navigate information overload and distinguish reliable sources from misinformation?",
+    "domain": "Education & Learning"
+  },
+  {
+    "question": "Why do some learning disabilities go undiagnosed, and how can we better support neurodiverse learners?",
+    "domain": "Education & Learning"
+  },
+  {
+    "question": "What is the optimal balance between collaborative and individual learning for different types of students?",
+    "domain": "Education & Learning"
+  },
+  {
+    "question": "Why do we fall in love with specific people, and how much control do we have over romantic attraction?",
+    "domain": "Love & Relationships"
+  },
+  {
+    "question": "What makes some relationships last decades while others fall apart despite initial strong feelings?",
+    "domain": "Love & Relationships"
+  },
+  {
+    "question": "How do childhood experiences with caregivers shape our adult relationship patterns and attachment styles?",
+    "domain": "Love & Relationships"
+  },
+  {
+    "question": "Why is it so difficult to leave relationships we know are unhealthy or unfulfilling?",
+    "domain": "Love & Relationships"
+  },
+  {
+    "question": "How has dating technology changed the way we form relationships, and is it making us more or less connected?",
+    "domain": "Love & Relationships"
+  },
+  {
+    "question": "What causes some people to fear intimacy even when they desire close relationships?",
+    "domain": "Love & Relationships"
+  },
+  {
+    "question": "How do we maintain individual identity while building deep partnerships with others?",
+    "domain": "Love & Relationships"
+  },
+  {
+    "question": "Why do people cheat in relationships, and can trust be fully rebuilt after betrayal?",
+    "domain": "Love & Relationships"
+  },
+  {
+    "question": "How do long-distance relationships survive and thrive despite physical separation?",
+    "domain": "Love & Relationships"
+  },
+  {
+    "question": "What role does forgiveness play in maintaining healthy relationships, and how do we forgive without forgetting?",
+    "domain": "Love & Relationships"
+  },
+  {
+    "question": "Why do we procrastinate on important tasks even when we know it causes stress and negative consequences?",
+    "domain": "Personal Development & Success"
+  },
+  {
+    "question": "What separates people who achieve their goals from those who give up, and can motivation be sustainably maintained?",
+    "domain": "Personal Development & Success"
+  },
+  {
+    "question": "How do we overcome imposter syndrome and develop genuine self-confidence?",
+    "domain": "Personal Development & Success"
+  },
+  {
+    "question": "Why do some people seem naturally resilient while others are easily overwhelmed by setbacks?",
+    "domain": "Personal Development & Success"
+  },
+  {
+    "question": "What is the relationship between happiness and success, and which one leads to the other?",
+    "domain": "Personal Development & Success"
+  },
+  {
+    "question": "How do we find our life purpose, and what if we never discover what we're meant to do?",
+    "domain": "Personal Development & Success"
+  },
+  {
+    "question": "Why is it so hard to change bad habits even when we consciously want to improve?",
+    "domain": "Personal Development & Success"
+  },
+  {
+    "question": "How do we balance ambition and contentment without becoming complacent or perpetually dissatisfied?",
+    "domain": "Personal Development & Success"
+  },
+  {
+    "question": "What role does failure play in personal growth, and how do we learn from mistakes without being paralyzed by them?",
+    "domain": "Personal Development & Success"
+  },
+  {
+    "question": "How do we develop emotional intelligence and better understand our own feelings and reactions?",
+    "domain": "Personal Development & Success"
+  },
+  {
+    "question": "Why do some foods taste amazing to some people and terrible to others, and how much of taste is learned versus genetic?",
+    "domain": "Health & Human Body"
+  },
+  {
+    "question": "How does our gut microbiome influence not just digestion but mood, immunity, and overall health?",
+    "domain": "Health & Human Body"
+  },
+  {
+    "question": "Why do we crave unhealthy foods when we know they're bad for us, and how can we rewire these preferences?",
+    "domain": "Health & Human Body"
+  },
+  {
+    "question": "What determines how our bodies age, and why do some people look and feel decades younger than their chronological age?",
+    "domain": "Health & Human Body"
+  },
+  {
+    "question": "How does chronic stress literally damage our bodies at the cellular level, and can this damage be reversed?",
+    "domain": "Health & Human Body"
+  },
+  {
+    "question": "Why do some people rarely get sick while others catch every bug that goes around?",
+    "domain": "Health & Human Body"
+  },
+  {
+    "question": "How do placebo effects work, and what does this reveal about the mind's power over physical health?",
+    "domain": "Health & Human Body"
+  },
+  {
+    "question": "What causes autoimmune diseases where the body attacks itself, and why are they becoming more common?",
+    "domain": "Health & Human Body"
+  },
+  {
+    "question": "How does exercise affect mental health, and why is physical activity so effective for treating depression and anxiety?",
+    "domain": "Health & Human Body"
+  },
+  {
+    "question": "Why do we need sleep, and what exactly happens during different sleep stages that's so crucial for health?",
+    "domain": "Health & Human Body"
+  }
+,
+  {
+    "question": "Why do some people seem to naturally attract others while others struggle with social connections throughout their lives?",
+    "domain": "Social Psychology & Human Behavior"
+  },
+  {
+    "question": "What makes certain childhood memories so vivid and emotionally charged while others fade completely?",
+    "domain": "Social Psychology & Human Behavior"
+  },
+  {
+    "question": "How does social media validation affect our sense of self-worth, and why do we become addicted to likes and comments?",
+    "domain": "Social Psychology & Human Behavior"
+  },
+  {
+    "question": "Why do people in toxic relationships often stay despite knowing they're unhappy?",
+    "domain": "Social Psychology & Human Behavior"
+  },
+  {
+    "question": "What psychological mechanisms drive conspiracy theory beliefs, and how can we address misinformation without alienating believers?",
+    "domain": "Social Psychology & Human Behavior"
+  },
+  {
+    "question": "How do cultural differences in emotional expression affect cross-cultural relationships and communication?",
+    "domain": "Social Psychology & Human Behavior"
+  },
+  {
+    "question": "Why do some people thrive under pressure while others crumble, and can stress tolerance be developed?",
+    "domain": "Social Psychology & Human Behavior"
+  },
+  {
+    "question": "What determines whether someone becomes an introvert or extrovert, and can personality traits change over time?",
+    "domain": "Social Psychology & Human Behavior"
+  },
+  {
+    "question": "Why do we feel nostalgia so intensely, and what evolutionary purpose might this emotion serve?",
+    "domain": "Social Psychology & Human Behavior"
+  },
+  {
+    "question": "How does growing up in poverty affect brain development and decision-making abilities in adulthood?",
+    "domain": "Social Psychology & Human Behavior"
+  },
+  {
+    "question": "Should I invest in stocks or pay off my credit card debt first?",
+    "domain": "Personal Finance & Money Management"
+  },
+  {
+    "question": "How much should I save for an emergency fund, and where should I keep this money?",
+    "domain": "Personal Finance & Money Management"
+  },
+  {
+    "question": "What's the difference between a 401k and an IRA, and which one should I prioritize?",
+    "domain": "Personal Finance & Money Management"
+  },
+  {
+    "question": "How do I create a budget that actually works and doesn't make me feel deprived?",
+    "domain": "Personal Finance & Money Management"
+  },
+  {
+    "question": "What factors determine my credit score, and how can I improve it effectively?",
+    "domain": "Personal Finance & Money Management"
+  },
+  {
+    "question": "Should I rent or buy a home, and what are the hidden costs of homeownership?",
+    "domain": "Personal Finance & Money Management"
+  },
+  {
+    "question": "How does compound interest really work, and why is starting early so important for retirement?",
+    "domain": "Personal Finance & Money Management"
+  },
+  {
+    "question": "What's the best way to discuss money and financial goals with my romantic partner?",
+    "domain": "Personal Finance & Money Management"
+  },
+  {
+    "question": "How do I protect my finances from inflation and economic uncertainty?",
+    "domain": "Personal Finance & Money Management"
+  },
+  {
+    "question": "What are the tax implications of different investment strategies, and how can I minimize what I owe?",
+    "domain": "Personal Finance & Money Management"
+  },
+  {
+    "question": "What is the weighted average cost of capital (WACC) and how do you calculate it for valuation purposes?",
+    "domain": "Corporate Finance & Investment Analysis"
+  },
+  {
+    "question": "How do you determine the optimal capital structure for a company, and what factors influence debt-to-equity ratios?",
+    "domain": "Corporate Finance & Investment Analysis"
+  },
+  {
+    "question": "What are the key differences between discounted cash flow (DCF) and comparable company analysis in valuation?",
+    "domain": "Corporate Finance & Investment Analysis"
+  },
+  {
+    "question": "How do you assess the financial viability of a leveraged buyout, and what metrics are most important?",
+    "domain": "Corporate Finance & Investment Analysis"
+  },
+  {
+    "question": "What role does beta play in the Capital Asset Pricing Model, and how do you calculate it accurately?",
+    "domain": "Corporate Finance & Investment Analysis"
+  },
+  {
+    "question": "How do you analyze the impact of working capital changes on a company's cash flow and valuation?",
+    "domain": "Corporate Finance & Investment Analysis"
+  },
+  {
+    "question": "What are the advantages and disadvantages of different merger and acquisition structures from a financial perspective?",
+    "domain": "Corporate Finance & Investment Analysis"
+  },
+  {
+    "question": "How do you determine the appropriate discount rate for international investments with currency risk?",
+    "domain": "Corporate Finance & Investment Analysis"
+  },
+  {
+    "question": "What are the key financial metrics used to evaluate the performance of private equity investments?",
+    "domain": "Corporate Finance & Investment Analysis"
+  },
+  {
+    "question": "How do you model and analyze the financial impact of different dividend policies on shareholder value?",
+    "domain": "Corporate Finance & Investment Analysis"
+  },
+  {
+    "question": "Why do some books become timeless classics while others are forgotten, regardless of their initial popularity?",
+    "domain": "Literature & Literary Analysis"
+  },
+  {
+    "question": "What makes a character truly memorable and relatable across different cultures and time periods?",
+    "domain": "Literature & Literary Analysis"
+  },
+  {
+    "question": "How do authors create suspense and emotional engagement without relying on action or plot twists?",
+    "domain": "Literature & Literary Analysis"
+  },
+  {
+    "question": "What role does symbolism play in modern literature, and how do readers interpret symbols differently?",
+    "domain": "Literature & Literary Analysis"
+  },
+  {
+    "question": "Why do certain literary themes like love, death, and redemption appear across all cultures and eras?",
+    "domain": "Literature & Literary Analysis"
+  },
+  {
+    "question": "How has digital technology changed the way we read and interpret literature?",
+    "domain": "Literature & Literary Analysis"
+  },
+  {
+    "question": "What distinguishes literary fiction from popular fiction, and does this distinction still matter?",
+    "domain": "Literature & Literary Analysis"
+  },
+  {
+    "question": "How do translation and cultural adaptation affect the meaning and impact of literary works?",
+    "domain": "Literature & Literary Analysis"
+  },
+  {
+    "question": "What role does the reader's personal experience play in understanding and interpreting a text?",
+    "domain": "Literature & Literary Analysis"
+  },
+  {
+    "question": "How do contemporary authors address modern issues while maintaining universal appeal?",
+    "domain": "Literature & Literary Analysis"
+  },
+  {
+    "question": "Who wrote 'Pride and Prejudice' and what social issues does the novel address?",
+    "domain": "Classic Literature Knowledge"
+  },
+  {
+    "question": "What is the significance of the white whale in Herman Melville's 'Moby Dick'?",
+    "domain": "Classic Literature Knowledge"
+  },
+  {
+    "question": "How does George Orwell's '1984' reflect concerns about totalitarianism and surveillance?",
+    "domain": "Classic Literature Knowledge"
+  },
+  {
+    "question": "What themes connect the works of the Harlem Renaissance writers like Langston Hughes and Zora Neale Hurston?",
+    "domain": "Classic Literature Knowledge"
+  },
+  {
+    "question": "How does Shakespeare's use of language in his plays differ from contemporary English?",
+    "domain": "Classic Literature Knowledge"
+  },
+  {
+    "question": "What makes 'One Hundred Years of Solitude' by Gabriel García Márquez an example of magical realism?",
+    "domain": "Classic Literature Knowledge"
+  },
+  {
+    "question": "How do the themes in Jane Austen's novels remain relevant to modern relationships and society?",
+    "domain": "Classic Literature Knowledge"
+  },
+  {
+    "question": "What historical context is essential to understanding Charles Dickens' social criticism in his novels?",
+    "domain": "Classic Literature Knowledge"
+  },
+  {
+    "question": "How does the stream-of-consciousness technique work in James Joyce's 'Ulysses'?",
+    "domain": "Classic Literature Knowledge"
+  },
+  {
+    "question": "What role does setting play in creating atmosphere in Gothic literature like 'Wuthering Heights'?",
+    "domain": "Classic Literature Knowledge"
+  },
+  {
+    "question": "How do I choose the perfect destination when I feel overwhelmed by endless travel options?",
+    "domain": "Travel Planning & Destinations"
+  },
+  {
+    "question": "What's the best way to plan a trip itinerary that balances must-see attractions with authentic local experiences?",
+    "domain": "Travel Planning & Destinations"
+  },
+  {
+    "question": "How much should I budget for a two-week trip to Europe, and what costs am I likely to overlook?",
+    "domain": "Travel Planning & Destinations"
+  },
+  {
+    "question": "Should I book flights and hotels separately or use package deals for better value?",
+    "domain": "Travel Planning & Destinations"
+  },
+  {
+    "question": "How do I travel safely as a solo female traveler, and what precautions should I take?",
+    "domain": "Travel Planning & Destinations"
+  },
+  {
+    "question": "What's the best time to visit popular destinations to avoid crowds while still having good weather?",
+    "domain": "Travel Planning & Destinations"
+  },
+  {
+    "question": "How do I handle international cell phone service and stay connected without huge roaming charges?",
+    "domain": "Travel Planning & Destinations"
+  },
+  {
+    "question": "What travel insurance do I actually need, and what situations does it typically cover?",
+    "domain": "Travel Planning & Destinations"
+  },
+  {
+    "question": "How do I pack efficiently for different climates and activities without overpacking?",
+    "domain": "Travel Planning & Destinations"
+  },
+  {
+    "question": "What cultural etiquette should I research before visiting a new country to avoid offending locals?",
+    "domain": "Travel Planning & Destinations"
+  },
+  {
+    "question": "How do I find and book unique accommodations like local homestays or eco-lodges?",
+    "domain": "Travel Logistics & Accommodation"
+  },
+  {
+    "question": "What's the most efficient way to get from the airport to my hotel in a foreign city?",
+    "domain": "Travel Logistics & Accommodation"
+  },
+  {
+    "question": "How do I navigate public transportation systems in cities where I don't speak the language?",
+    "domain": "Travel Logistics & Accommodation"
+  },
+  {
+    "question": "What documents do I need for international travel, and how far in advance should I apply for visas?",
+    "domain": "Travel Logistics & Accommodation"
+  },
+  {
+    "question": "How do I handle currency exchange and international banking fees while traveling?",
+    "domain": "Travel Logistics & Accommodation"
+  },
+  {
+    "question": "What vaccinations or health precautions do I need for traveling to tropical or developing countries?",
+    "domain": "Travel Logistics & Accommodation"
+  },
+  {
+    "question": "How do I coordinate group travel logistics when everyone has different preferences and budgets?",
+    "domain": "Travel Logistics & Accommodation"
+  },
+  {
+    "question": "What's the best strategy for booking flights to get good deals without sacrificing convenience?",
+    "domain": "Travel Logistics & Accommodation"
+  },
+  {
+    "question": "How do I plan for unexpected situations like flight cancellations or medical emergencies abroad?",
+    "domain": "Travel Logistics & Accommodation"
+  },
+  {
+    "question": "What are the pros and cons of staying in hotels versus vacation rentals for different types of trips?",
+    "domain": "Travel Logistics & Accommodation"
+  },
+  {
+    "question": "What makes a movie truly great versus just entertaining, and how do critics evaluate films?",
+    "domain": "Cinema & Film Analysis"
+  },
+  {
+    "question": "How do directors use cinematography, sound, and editing to create emotional impact in films?",
+    "domain": "Cinema & Film Analysis"
+  },
+  {
+    "question": "What role does film scoring play in shaping audience emotions and perceptions?",
+    "domain": "Cinema & Film Analysis"
+  },
+  {
+    "question": "How has the film industry changed with streaming platforms, and what does this mean for moviegoers?",
+    "domain": "Cinema & Film Analysis"
+  },
+  {
+    "question": "What distinguishes independent films from major studio productions in terms of storytelling and style?",
+    "domain": "Cinema & Film Analysis"
+  },
+  {
+    "question": "How do cultural differences affect the way films are made and received in different countries?",
+    "domain": "Cinema & Film Analysis"
+  },
+  {
+    "question": "What makes certain movie genres timeless while others feel dated after a few years?",
+    "domain": "Cinema & Film Analysis"
+  },
+  {
+    "question": "How do special effects and CGI change the storytelling possibilities in modern cinema?",
+    "domain": "Cinema & Film Analysis"
+  },
+  {
+    "question": "What role do film festivals play in discovering new talent and promoting diverse voices in cinema?",
+    "domain": "Cinema & Film Analysis"
+  },
+  {
+    "question": "How do movie adaptations of books succeed or fail, and what challenges do filmmakers face?",
+    "domain": "Cinema & Film Analysis"
+  },
+  {
+    "question": "What movie should I watch if I want something uplifting after a difficult day?",
+    "domain": "Movie Recommendations & Entertainment"
+  },
+  {
+    "question": "Can you recommend some thought-provoking films that will make me see the world differently?",
+    "domain": "Movie Recommendations & Entertainment"
+  },
+  {
+    "question": "What are some great movies that are based on true stories and worth watching?",
+    "domain": "Movie Recommendations & Entertainment"
+  },
+  {
+    "question": "Which classic films should I watch to understand important moments in cinema history?",
+    "domain": "Movie Recommendations & Entertainment"
+  },
+  {
+    "question": "What are some excellent foreign films with subtitles that are worth the reading effort?",
+    "domain": "Movie Recommendations & Entertainment"
+  },
+  {
+    "question": "Can you suggest some underrated movies that deserve more recognition?",
+    "domain": "Movie Recommendations & Entertainment"
+  },
+  {
+    "question": "What are the best documentary films that are both educational and entertaining?",
+    "domain": "Movie Recommendations & Entertainment"
+  },
+  {
+    "question": "Which movie series or franchises are worth watching from beginning to end?",
+    "domain": "Movie Recommendations & Entertainment"
+  },
+  {
+    "question": "What are some great movies to watch with family that appeal to both adults and children?",
+    "domain": "Movie Recommendations & Entertainment"
+  },
+  {
+    "question": "Which psychological thrillers will keep me guessing until the very end?",
+    "domain": "Movie Recommendations & Entertainment"
+  },
+  {
+    "question": "What was the highest-grossing film of all time, and how do box office numbers relate to quality?",
+    "domain": "Movie Trivia & Industry Knowledge"
+  },
+  {
+    "question": "Which actor has won the most Academy Awards, and what performances earned them recognition?",
+    "domain": "Movie Trivia & Industry Knowledge"
+  },
+  {
+    "question": "What movie holds the record for the most Oscar nominations in a single year?",
+    "domain": "Movie Trivia & Industry Knowledge"
+  },
+  {
+    "question": "Which film director is known for making the most expensive movie ever produced?",
+    "domain": "Movie Trivia & Industry Knowledge"
+  },
+  {
+    "question": "What are some famous movie quotes that have become part of popular culture?",
+    "domain": "Movie Trivia & Industry Knowledge"
+  },
+  {
+    "question": "Which movie was the first to win the 'Big Five' Oscar categories in the same year?",
+    "domain": "Movie Trivia & Industry Knowledge"
+  },
+  {
+    "question": "What breakthrough special effects techniques were first introduced in landmark films?",
+    "domain": "Movie Trivia & Industry Knowledge"
+  },
+  {
+    "question": "Which actors are known for doing their own stunts, and what risks do they take?",
+    "domain": "Movie Trivia & Industry Knowledge"
+  },
+  {
+    "question": "What are some famous movie urban legends or behind-the-scenes stories that turned out to be true?",
+    "domain": "Movie Trivia & Industry Knowledge"
+  },
+  {
+    "question": "Which films were considered box office flops but later became cult classics?",
+    "domain": "Movie Trivia & Industry Knowledge"
+  },
+  {
+    "question": "How do I maintain close friendships as an adult when everyone is busy with work and family?",
+    "domain": "Relationships & Social Life"
+  },
+  {
+    "question": "What are the signs of a healthy romantic relationship versus an unhealthy one?",
+    "domain": "Relationships & Social Life"
+  },
+  {
+    "question": "How do I set boundaries with family members without causing hurt feelings or conflict?",
+    "domain": "Relationships & Social Life"
+  },
+  {
+    "question": "What's the best way to handle disagreements with friends or partners without damaging the relationship?",
+    "domain": "Relationships & Social Life"
+  },
+  {
+    "question": "How do I know when it's time to end a friendship or relationship that's no longer serving me?",
+    "domain": "Relationships & Social Life"
+  },
+  {
+    "question": "What are effective ways to meet new people and form genuine connections as an adult?",
+    "domain": "Relationships & Social Life"
+  },
+  {
+    "question": "How do I deal with jealousy in relationships, whether I'm feeling it or my partner is?",
+    "domain": "Relationships & Social Life"
+  },
+  {
+    "question": "What's the difference between being supportive and enabling in relationships?",
+    "domain": "Relationships & Social Life"
+  },
+  {
+    "question": "How do I navigate relationships with in-laws and extended family members?",
+    "domain": "Relationships & Social Life"
+  },
+  {
+    "question": "What are the keys to maintaining a long-distance relationship successfully?",
+    "domain": "Relationships & Social Life"
+  },
+  {
+    "question": "How do I find work that feels meaningful and aligns with my values?",
+    "domain": "Career & Professional Development"
+  },
+  {
+    "question": "What's the best way to ask for a raise or promotion without seeming demanding?",
+    "domain": "Career & Professional Development"
+  },
+  {
+    "question": "How do I handle a difficult boss or toxic work environment professionally?",
+    "domain": "Career & Professional Development"
+  },
+  {
+    "question": "What skills should I develop to remain competitive in the job market as automation increases?",
+    "domain": "Career & Professional Development"
+  },
+  {
+    "question": "How do I network effectively without feeling like I'm using people?",
+    "domain": "Career & Professional Development"
+  },
+  {
+    "question": "What's the best strategy for changing careers when I have financial obligations?",
+    "domain": "Career & Professional Development"
+  },
+  {
+    "question": "How do I deal with imposter syndrome and build confidence in my professional abilities?",
+    "domain": "Career & Professional Development"
+  },
+  {
+    "question": "What work-life balance strategies actually work in demanding careers?",
+    "domain": "Career & Professional Development"
+  },
+  {
+    "question": "How do I prepare for job interviews when I'm nervous and tend to overthink?",
+    "domain": "Career & Professional Development"
+  },
+  {
+    "question": "What are the pros and cons of freelancing versus traditional employment in today's economy?",
+    "domain": "Career & Professional Development"
+  },
+  {
+    "question": "Why do I keep making the same mistakes in relationships despite knowing better?",
+    "domain": "Mental Health & Personal Growth"
+  },
+  {
+    "question": "How do I overcome perfectionism that's holding me back from taking risks or trying new things?",
+    "domain": "Mental Health & Personal Growth"
+  },
+  {
+    "question": "What's the difference between normal sadness and depression, and when should I seek help?",
+    "domain": "Mental Health & Personal Growth"
+  },
+  {
+    "question": "How do I build self-confidence when I have a history of low self-esteem?",
+    "domain": "Mental Health & Personal Growth"
+  },
+  {
+    "question": "What are effective ways to manage anxiety without relying solely on medication?",
+    "domain": "Mental Health & Personal Growth"
+  },
+  {
+    "question": "How do I stop comparing myself to others, especially on social media?",
+    "domain": "Mental Health & Personal Growth"
+  },
+  {
+    "question": "What does it mean to practice self-compassion, and how is it different from self-pity?",
+    "domain": "Mental Health & Personal Growth"
+  },
+  {
+    "question": "How do I identify and change negative thought patterns that affect my daily life?",
+    "domain": "Mental Health & Personal Growth"
+  },
+  {
+    "question": "What are healthy ways to process grief and loss without getting stuck in the pain?",
+    "domain": "Mental Health & Personal Growth"
+  },
+  {
+    "question": "How do I find a therapist who's right for me, and what should I expect from therapy?",
+    "domain": "Mental Health & Personal Growth"
+  },
+  {
+    "question": "What causes aging at the cellular level, and is there anything we can do to slow it down?",
+    "domain": "Health & Wellness Science"
+  },
+  {
+    "question": "How does exercise actually improve mental health, and what types are most effective?",
+    "domain": "Health & Wellness Science"
+  },
+  {
+    "question": "What role does sleep play in physical and mental health, and how can I improve my sleep quality?",
+    "domain": "Health & Wellness Science"
+  },
+  {
+    "question": "How does chronic stress affect the immune system and overall health?",
+    "domain": "Health & Wellness Science"
+  },
+  {
+    "question": "What's the science behind different diets, and how do I know what eating plan is right for me?",
+    "domain": "Health & Wellness Science"
+  },
+  {
+    "question": "How do vaccines work, and why are they important for public health?",
+    "domain": "Health & Wellness Science"
+  },
+  {
+    "question": "What causes addiction at the brain level, and how effective are different treatment approaches?",
+    "domain": "Health & Wellness Science"
+  },
+  {
+    "question": "How does the gut microbiome affect overall health, mood, and cognitive function?",
+    "domain": "Health & Wellness Science"
+  },
+  {
+    "question": "What's the relationship between inflammation and chronic diseases like heart disease and diabetes?",
+    "domain": "Health & Wellness Science"
+  },
+  {
+    "question": "How do environmental factors like air pollution and chemicals affect human health over time?",
+    "domain": "Health & Wellness Science"
+  },
+  {
+    "question": "How does artificial intelligence actually learn, and what are its current limitations?",
+    "domain": "Technology & Digital Life"
+  },
+  {
+    "question": "What are the privacy implications of smart home devices and social media platforms?",
+    "domain": "Technology & Digital Life"
+  },
+  {
+    "question": "How is cryptocurrency different from traditional money, and should I invest in it?",
+    "domain": "Technology & Digital Life"
+  },
+  {
+    "question": "What impact will automation have on jobs, and how can workers prepare for these changes?",
+    "domain": "Technology & Digital Life"
+  },
+  {
+    "question": "How do algorithms determine what content I see on social media and search engines?",
+    "domain": "Technology & Digital Life"
+  },
+  {
+    "question": "What are the benefits and risks of genetic testing and personalized medicine?",
+    "domain": "Technology & Digital Life"
+  },
+  {
+    "question": "How does virtual reality work, and what applications might change daily life in the future?",
+    "domain": "Technology & Digital Life"
+  },
+  {
+    "question": "What cybersecurity measures should ordinary people take to protect their digital information?",
+    "domain": "Technology & Digital Life"
+  },
+  {
+    "question": "How do electric vehicles compare to traditional cars in terms of environmental impact and cost?",
+    "domain": "Technology & Digital Life"
+  },
+  {
+    "question": "What ethical considerations arise as technology becomes more integrated into healthcare and education?",
+    "domain": "Technology & Digital Life"
+  },
+  {
+    "question": "What does it mean to live a fulfilling life, and how do different people define fulfillment?",
+    "domain": "Philosophy & Life Questions"
+  },
+  {
+    "question": "How do we know what's morally right or wrong when different cultures have different values?",
+    "domain": "Philosophy & Life Questions"
+  },
+  {
+    "question": "What is consciousness, and how do we know that other people experience the world like we do?",
+    "domain": "Philosophy & Life Questions"
+  },
+  {
+    "question": "If everything is determined by prior causes, do we really have free will or personal responsibility?",
+    "domain": "Philosophy & Life Questions"
+  },
+  {
+    "question": "What happens to personal identity as we age and change - are we the same person throughout life?",
+    "domain": "Philosophy & Life Questions"
+  },
+  {
+    "question": "How do we balance individual freedom with social responsibility and community obligations?",
+    "domain": "Philosophy & Life Questions"
+  },
+  {
+    "question": "What role should religion or spirituality play in modern society and personal decision-making?",
+    "domain": "Philosophy & Life Questions"
+  },
+  {
+    "question": "How do we find meaning in life when faced with suffering, uncertainty, and mortality?",
+    "domain": "Philosophy & Life Questions"
+  },
+  {
+    "question": "What obligations do we have to future generations regarding environmental protection and resource use?",
+    "domain": "Philosophy & Life Questions"
+  },
+  {
+    "question": "How do we determine truth in an age of information overload and conflicting expert opinions?",
+    "domain": "Philosophy & Life Questions"
+  }
+]
