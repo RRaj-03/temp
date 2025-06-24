@@ -1,35 +1,18 @@
 
-Who had a 70s No 1 hit with Billy, Don't Be A Hero?
-
-
-
-
-
-give me 3 enhanced prompt in this format, tags are focus area where prompts foucses
-
-
-
 [
-
-            {
-
-                "tag": "",
-
-                "prompt": ""
-
-            },
-
-            {
-
-                "tag": "",
-
-                "prompt": ""
-
-            }
-
-           
-
-        ]
+{
+"tag": "Chart Specificity",
+"prompt": "Who had a No. 1 hit with 'Billy, Don't Be A Hero' in the 1970s? Please specify which music chart (US Billboard Hot 100, UK Singles Chart, etc.) and include the peak chart position dates for accuracy, as different artists may have topped different regional charts with this song."
+},
+{
+"tag": "Song Context",
+"prompt": "Which artist(s) achieved a No. 1 hit with 'Billy, Don't Be A Hero' in the 1970s? Please provide context about the song including the songwriters, release year, and any notable information about different versions or cover versions that were successful."
+},
+{
+"tag": "Artist Comparison",
+"prompt": "Who recorded the No. 1 hit version of 'Billy, Don't Be A Hero' in the 1970s? If multiple artists had chart-topping versions, please compare their different releases, chart performance in various countries, and explain which version was more commercially successful overall."
+}
+]
 
 agent_note = {
     'type_of_task': 'classify the task into ["summary","qna","text_generation","NLI"]',
