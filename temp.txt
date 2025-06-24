@@ -1,3 +1,505 @@
+[
+  {
+    "question": "What is the half-life of Uranium-235 in years?",
+    "difficulty": "advanced",
+    "domain": "Biology & Chemistry"
+  },
+  {
+    "question": "Which enzyme is responsible for unwinding DNA during replication?",
+    "difficulty": "advanced",
+    "domain": "Biology & Chemistry"
+  },
+  {
+    "question": "What is the Chandrasekhar limit in solar masses?",
+    "difficulty": "expert",
+    "domain": "Physics & Astronomy"
+  },
+  {
+    "question": "In quantum mechanics, what does the Heisenberg Uncertainty Principle state about momentum and position?",
+    "difficulty": "advanced",
+    "domain": "Physics & Astronomy"
+  },
+  {
+    "question": "What is the name of the theoretical boundary around a black hole beyond which nothing can escape?",
+    "difficulty": "intermediate",
+    "domain": "Physics & Astronomy"
+  },
+  {
+    "question": "Which mathematical theorem states that in any right triangle, the square of the hypotenuse equals the sum of squares of the other two sides?",
+    "difficulty": "intermediate",
+    "domain": "Mathematics & Computer Science"
+  },
+  {
+    "question": "What is the time complexity of QuickSort in the worst case scenario?",
+    "difficulty": "advanced",
+    "domain": "Mathematics & Computer Science"
+  },
+  {
+    "question": "Which treaty established the European Union in 1992?",
+    "difficulty": "intermediate",
+    "domain": "History & Economics"
+  },
+  {
+    "question": "What is the name of the economic theory that suggests government spending can stimulate economic growth during recessions?",
+    "difficulty": "advanced",
+    "domain": "History & Economics"
+  },
+  {
+    "question": "In which year did the Chernobyl nuclear disaster occur?",
+    "difficulty": "intermediate",
+    "domain": "Physics & Astronomy"
+  },
+  {
+    "question": "What is the molecular formula for glucose?",
+    "difficulty": "intermediate",
+    "domain": "Biology & Chemistry"
+  },
+  {
+    "question": "Which philosopher wrote 'Critique of Pure Reason'?",
+    "difficulty": "advanced",
+    "domain": "Literature & Arts"
+  },
+  {
+    "question": "What is the name of the process by which cells divide to produce gametes?",
+    "difficulty": "intermediate",
+    "domain": "Biology & Chemistry"
+  },
+  {
+    "question": "In computer science, what does 'NP-complete' refer to?",
+    "difficulty": "expert",
+    "domain": "Mathematics & Computer Science"
+  },
+  {
+    "question": "What is the Avogadro constant (approximately)?",
+    "difficulty": "advanced",
+    "domain": "Biology & Chemistry"
+  },
+  {
+    "question": "Which hormone regulates blood sugar levels in humans?",
+    "difficulty": "intermediate",
+    "domain": "Biology & Chemistry"
+  },
+  {
+    "question": "What is the name of the programming paradigm that treats computation as the evaluation of mathematical functions?",
+    "difficulty": "advanced",
+    "domain": "Mathematics & Computer Science"
+  },
+  {
+    "question": "In finance, what does 'beta' measure in portfolio theory?",
+    "difficulty": "advanced",
+    "domain": "History & Economics"
+  },
+  {
+    "question": "What is the name of the statistical measure that describes the linear relationship between two variables?",
+    "difficulty": "intermediate",
+    "domain": "Mathematics & Computer Science"
+  },
+  {
+    "question": "Which element has the highest electronegativity on the periodic table?",
+    "difficulty": "intermediate",
+    "domain": "Biology & Chemistry"
+  },
+  {
+    "question": "What is the name of the logical fallacy where one assumes that correlation implies causation?",
+    "difficulty": "advanced",
+    "domain": "Psychology & Sociology"
+  },
+  {
+    "question": "In thermodynamics, what does the second law state about entropy?",
+    "difficulty": "advanced",
+    "domain": "Physics & Astronomy"
+  },
+  {
+    "question": "What is the name of the algorithm used in machine learning for finding optimal decision boundaries?",
+    "difficulty": "expert",
+    "domain": "Mathematics & Computer Science"
+  },
+  {
+    "question": "Which psychological theory divides the mind into id, ego, and superego?",
+    "difficulty": "intermediate",
+    "domain": "Psychology & Sociology"
+  },
+  {
+    "question": "What is the name of the mathematical concept that describes the rate of change of a function?",
+    "difficulty": "intermediate",
+    "domain": "Mathematics & Computer Science"
+  },
+  {
+    "question": "In genetics, what does 'epistasis' refer to?",
+    "difficulty": "advanced",
+    "domain": "Biology & Chemistry"
+  },
+  {
+    "question": "What is the name of the economic indicator that measures the total value of goods and services produced?",
+    "difficulty": "intermediate",
+    "domain": "History & Economics"
+  },
+  {
+    "question": "Which neurotransmitter is primarily associated with the reward pathway in the brain?",
+    "difficulty": "advanced",
+    "domain": "Psychology & Sociology"
+  },
+  {
+    "question": "What is the name of the technique used in organic chemistry to separate compounds based on boiling points?",
+    "difficulty": "intermediate",
+    "domain": "Biology & Chemistry"
+  },
+  {
+    "question": "In game theory, what is a Nash equilibrium?",
+    "difficulty": "expert",
+    "domain": "History & Economics"
+  },
+  {
+    "question": "What is the name of the phenomenon where light bends when passing through different media?",
+    "difficulty": "intermediate",
+    "domain": "Physics & Astronomy"
+  },
+  {
+    "question": "Which statistical test is used to determine if there's a significant difference between the means of three or more groups?",
+    "difficulty": "advanced",
+    "domain": "Mathematics & Computer Science"
+  },
+  {
+    "question": "What is the name of the database operation that combines rows from two or more tables?",
+    "difficulty": "intermediate",
+    "domain": "Mathematics & Computer Science"
+  },
+  {
+    "question": "In molecular biology, what is the central dogma?",
+    "difficulty": "advanced",
+    "domain": "Biology & Chemistry"
+  },
+  {
+    "question": "What is the name of the principle in physics that states energy cannot be created or destroyed?",
+    "difficulty": "intermediate",
+    "domain": "Physics & Astronomy"
+  },
+  {
+    "question": "Which sorting algorithm has the best average-case time complexity?",
+    "difficulty": "advanced",
+    "domain": "Mathematics & Computer Science"
+  },
+  {
+    "question": "What is the name of the economic concept where the cost of the next best alternative is considered?",
+    "difficulty": "intermediate",
+    "domain": "History & Economics"
+  },
+  {
+    "question": "In linguistics, what does 'morpheme' refer to?",
+    "difficulty": "advanced",
+    "domain": "Literature & Arts"
+  },
+  {
+    "question": "What is the name of the mathematical function that gives the probability density of a normal distribution?",
+    "difficulty": "advanced",
+    "domain": "Mathematics & Computer Science"
+  },
+  {
+    "question": "Which organelle is responsible for protein synthesis in eukaryotic cells?",
+    "difficulty": "intermediate",
+    "domain": "Biology & Chemistry"
+  },
+  {
+    "question": "What is the name of the network protocol that ensures reliable data transmission over the internet?",
+    "difficulty": "intermediate",
+    "domain": "Technology & Computer Science"
+  },
+  {
+    "question": "In chemistry, what does 'Le Chatelier's Principle' describe?",
+    "difficulty": "advanced",
+    "domain": "Biology & Chemistry"
+  },
+  {
+    "question": "What is the name of the cognitive bias where people overestimate their own abilities?",
+    "difficulty": "intermediate",
+    "domain": "Psychology & Sociology"
+  },
+  {
+    "question": "Which mathematical theorem relates the sides and angles of any triangle?",
+    "difficulty": "advanced",
+    "domain": "Mathematics & Computer Science"
+  },
+  {
+    "question": "What is the name of the process by which RNA is synthesized from DNA?",
+    "difficulty": "intermediate",
+    "domain": "Biology & Chemistry"
+  },
+  {
+    "question": "In artificial intelligence, what does 'backpropagation' refer to?",
+    "difficulty": "expert",
+    "domain": "Mathematics & Computer Science"
+  },
+  {
+    "question": "What is the name of the economic theory that explains how supply and demand determine prices?",
+    "difficulty": "intermediate",
+    "domain": "History & Economics"
+  },
+  {
+    "question": "Which statistical measure indicates how spread out data points are from the mean?",
+    "difficulty": "intermediate",
+    "domain": "Mathematics & Computer Science"
+  },
+  {
+    "question": "What is the name of the programming concept where a function calls itself?",
+    "difficulty": "intermediate",
+    "domain": "Mathematics & Computer Science"
+  },
+  {
+    "question": "In physics, what does 'quantum entanglement' describe?",
+    "difficulty": "expert",
+    "domain": "Physics & Astronomy"
+  },
+  {
+    "question": "What is the name of the logical structure used in databases to organize data?",
+    "difficulty": "intermediate",
+    "domain": "Mathematics & Computer Science"
+  },
+  {
+    "question": "Which hormone is responsible for regulating the sleep-wake cycle?",
+    "difficulty": "intermediate",
+    "domain": "Biology & Chemistry"
+  },
+  {
+    "question": "What is the name of the mathematical concept that describes the relationship between exponential and logarithmic functions?",
+    "difficulty": "advanced",
+    "domain": "Mathematics & Computer Science"
+  },
+  {
+    "question": "In sociology, what does 'social stratification' refer to?",
+    "difficulty": "intermediate",
+    "domain": "Psychology & Sociology"
+  },
+  {
+    "question": "What is the name of the algorithm used for finding the shortest path in a weighted graph?",
+    "difficulty": "advanced",
+    "domain": "Mathematics & Computer Science"
+  },
+  {
+    "question": "Which type of chemical bond involves the sharing of electron pairs between atoms?",
+    "difficulty": "intermediate",
+    "domain": "Biology & Chemistry"
+  },
+  {
+    "question": "What is the name of the psychological principle that states behavior followed by pleasant consequences is likely to be repeated?",
+    "difficulty": "advanced",
+    "domain": "Psychology & Sociology"
+  },
+  {
+    "question": "In calculus, what does the fundamental theorem establish the relationship between?",
+    "difficulty": "advanced",
+    "domain": "Mathematics & Computer Science"
+  },
+  {
+    "question": "What is the name of the data structure that follows Last In, First Out (LIFO) principle?",
+    "difficulty": "intermediate",
+    "domain": "Mathematics & Computer Science"
+  },
+  {
+    "question": "Which process in cellular respiration produces the most ATP molecules?",
+    "difficulty": "advanced",
+    "domain": "Biology & Chemistry"
+  },
+  {
+    "question": "What is the name of the economic indicator that measures inflation by tracking price changes in goods and services?",
+    "difficulty": "intermediate",
+    "domain": "History & Economics"
+  },
+  {
+    "question": "In machine learning, what does 'overfitting' refer to?",
+    "difficulty": "advanced",
+    "domain": "Mathematics & Computer Science"
+  },
+  {
+    "question": "What is the name of the principle in physics that describes the relationship between electric and magnetic fields?",
+    "difficulty": "expert",
+    "domain": "Physics & Astronomy"
+  },
+  {
+    "question": "Which statistical method is used to find the line of best fit through data points?",
+    "difficulty": "intermediate",
+    "domain": "Mathematics & Computer Science"
+  },
+  {
+    "question": "What is the name of the database property that ensures all parts of a transaction are completed successfully?",
+    "difficulty": "advanced",
+    "domain": "Mathematics & Computer Science"
+  },
+  {
+    "question": "In genetics, what is the term for genes located on the same chromosome that tend to be inherited together?",
+    "difficulty": "advanced",
+    "domain": "Biology & Chemistry"
+  },
+  {
+    "question": "What is the name of the computational complexity class containing decision problems solvable in polynomial time?",
+    "difficulty": "expert",
+    "domain": "Mathematics & Computer Science"
+  },
+  {
+    "question": "Which type of research design involves manipulating variables to establish cause-and-effect relationships?",
+    "difficulty": "intermediate",
+    "domain": "Psychology & Sociology"
+  },
+  {
+    "question": "What is the name of the mathematical operation that finds the area under a curve?",
+    "difficulty": "intermediate",
+    "domain": "Mathematics & Computer Science"
+  },
+  {
+    "question": "In organic chemistry, what is the term for compounds with the same molecular formula but different structural arrangements?",
+    "difficulty": "advanced",
+    "domain": "Biology & Chemistry"
+  },
+  {
+    "question": "What is the name of the design pattern that ensures a class has only one instance?",
+    "difficulty": "intermediate",
+    "domain": "Technology & Computer Science"
+  },
+  {
+    "question": "Which psychological theory explains behavior through the interaction of thoughts, feelings, and behaviors?",
+    "difficulty": "advanced",
+    "domain": "Psychology & Sociology"
+  },
+  {
+    "question": "What is the name of the principle in thermodynamics that relates to the direction of spontaneous processes?",
+    "difficulty": "advanced",
+    "domain": "Physics & Astronomy"
+  },
+  {
+    "question": "In computer networks, what does 'TCP' stand for?",
+    "difficulty": "intermediate",
+    "domain": "Technology & Computer Science"
+  },
+  {
+    "question": "What is the name of the statistical technique used to reduce the dimensionality of data while preserving variance?",
+    "difficulty": "expert",
+    "domain": "Mathematics & Computer Science"
+  },
+  {
+    "question": "Which cellular process converts light energy into chemical energy?",
+    "difficulty": "intermediate",
+    "domain": "Biology & Chemistry"
+  },
+  {
+    "question": "What is the name of the economic concept that describes the additional cost of producing one more unit?",
+    "difficulty": "advanced",
+    "domain": "History & Economics"
+  },
+  {
+    "question": "In formal logic, what does 'modus ponens' refer to?",
+    "difficulty": "advanced",
+    "domain": "Literature & Arts"
+  },
+  {
+    "question": "What is the name of the algorithm commonly used for public key cryptography?",
+    "difficulty": "expert",
+    "domain": "Technology & Computer Science"
+  },
+  {
+    "question": "Which part of the brain is primarily responsible for executive functions?",
+    "difficulty": "advanced",
+    "domain": "Psychology & Sociology"
+  },
+  {
+    "question": "What is the name of the mathematical theorem that describes the behavior of prime numbers?",
+    "difficulty": "expert",
+    "domain": "Mathematics & Computer Science"
+  },
+  {
+    "question": "In molecular genetics, what is the term for the complete set of DNA in an organism?",
+    "difficulty": "intermediate",
+    "domain": "Biology & Chemistry"
+  },
+  {
+    "question": "What is the name of the data mining technique used to find frequent patterns in datasets?",
+    "difficulty": "advanced",
+    "domain": "Mathematics & Computer Science"
+  },
+  {
+    "question": "Which chemical process involves the breakdown of glucose to produce energy?",
+    "difficulty": "intermediate",
+    "domain": "Biology & Chemistry"
+  },
+  {
+    "question": "What is the name of the philosophical argument that attempts to prove God's existence through reason alone?",
+    "difficulty": "expert",
+    "domain": "Literature & Arts"
+  },
+  {
+    "question": "In signal processing, what does 'FFT' stand for?",
+    "difficulty": "advanced",
+    "domain": "Technology & Computer Science"
+  },
+  {
+    "question": "What is the name of the psychological phenomenon where memory performance decreases due to interference?",
+    "difficulty": "advanced",
+    "domain": "Psychology & Sociology"
+  },
+  {
+    "question": "Which mathematical concept describes the rate at which a function approaches a limit?",
+    "difficulty": "advanced",
+    "domain": "Mathematics & Computer Science"
+  },
+  {
+    "question": "What is the name of the software development methodology that emphasizes iterative development and customer collaboration?",
+    "difficulty": "intermediate",
+    "domain": "Technology & Computer Science"
+  },
+  {
+    "question": "In immunology, what are the cells responsible for adaptive immune responses called?",
+    "difficulty": "advanced",
+    "domain": "Biology & Chemistry"
+  },
+  {
+    "question": "What is the name of the economic model that explains how markets reach equilibrium?",
+    "difficulty": "advanced",
+    "domain": "History & Economics"
+  },
+  {
+    "question": "Which statistical distribution is used to model the time between events in a Poisson process?",
+    "difficulty": "expert",
+    "domain": "Mathematics & Computer Science"
+  },
+  {
+    "question": "What is the name of the principle in quantum mechanics that states particles can exist in multiple states simultaneously?",
+    "difficulty": "expert",
+    "domain": "Physics & Astronomy"
+  },
+  {
+    "question": "In computer graphics, what does 'ray tracing' refer to?",
+    "difficulty": "advanced",
+    "domain": "Technology & Computer Science"
+  },
+  {
+    "question": "What is the name of the cognitive process by which information is encoded, stored, and retrieved?",
+    "difficulty": "intermediate",
+    "domain": "Psychology & Sociology"
+  },
+  {
+    "question": "Which mathematical theorem establishes the relationship between topology and algebra?",
+    "difficulty": "expert",
+    "domain": "Mathematics & Computer Science"
+  },
+  {
+    "question": "What is the name of the cellular structure that contains the cell's genetic material in prokaryotes?",
+    "difficulty": "intermediate",
+    "domain": "Biology & Chemistry"
+  },
+  {
+    "question": "In artificial intelligence, what does 'reinforcement learning' involve?",
+    "difficulty": "advanced",
+    "domain": "Mathematics & Computer Science"
+  },
+  {
+    "question": "What is the name of the economic principle that explains why people make irrational financial decisions?",
+    "difficulty": "advanced",
+    "domain": "History & Economics"
+  },
+  {
+    "question": "Which type of database system stores data in key-value pairs rather than tables?",
+    "difficulty": "intermediate",
+    "domain": "Technology & Computer Science"
+  }
+]
 
 [
 {
