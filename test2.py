@@ -2,6 +2,21 @@ import pandas as pd
 import numpy as np
 from tqdm import tqdm
 
+
+
+!wget -nc https://raw.githubusercontent.com/PolyAI-LDN/task-specific-datasets/master/banking_data/test.csv
+
+# Step 2: Load CSV using pandas
+import pandas as pd
+train_df = pd.read_csv("test.csv")
+
+train_df['category_clean'] = train_df['category'].apply(lambda s: s.replace('_', ' '))
+
+label_list = train_df['category_clean'].unique()
+
+print(list(label_list))
+
+
 # Step 1: Load data
 # train_df = pd.read_csv("train.csv")
 
